@@ -4,3 +4,6 @@ scikit-learn
 pandas
 jinja2
 numpy
+pydantic
+typing
+python-multipart
